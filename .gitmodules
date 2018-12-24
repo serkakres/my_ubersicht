@@ -1,0 +1,18 @@
+[submodule "Astronauts"]
+	path = Astronauts
+	url = git@github.com:serkakres/ubersicht-astronauts.git
+[submodule "Logo"]
+	path = Logo
+	url = git@github.com:serkakres/uebersicht-central-logo-widget.git
+[submodule "GitStats"]
+	path = GitStats
+	url = git@github.com:serkakres/uebersicht-git-stats.widget.git
+[submodule "HorizontalCalendar"]
+	path = HorizontalCalendar
+	url = git@github.com:serkakres/horizontal-calendar-widget.git
+[submodule "TaskWarrior"]
+	path = TaskWarrior
+	url = git@github.com:serkakres/TaskwarriorWidget.git
+[submodule "GithubActivity"]
+	path = GithubActivity
+	url = git@github.com:serkakres/uebersicht-github-activity.git
