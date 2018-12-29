@@ -16,6 +16,3 @@
 [submodule "GithubActivity"]
 	path = GithubActivity
 	url = git@github.com:serkakres/uebersicht-github-activity.git
-[submodule "BrewOutdated"]
-	path = BrewOutdated
-	url = git@github.com:serkakres/ubersicht-outdated-brew-formulae-widget.git
